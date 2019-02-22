@@ -25,7 +25,7 @@ public class RomanNumeral {
     }
     
     public static void birthday(Scanner kb) {
-        System.out.print("Enter the Month of your Birthday as a two digit number: ");
+        System.out.print("Enter the month of your birthday as a two digit number: ");
         int month = kb.nextInt();
         System.out.print("Enter the day of your birthday as a two digit number: ");
         int day = kb.nextInt();
