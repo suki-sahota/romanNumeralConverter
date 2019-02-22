@@ -1,7 +1,7 @@
 /*
-Author: Suki Sahota
-Description: Roman Numeral Converter
-*/
+ * Author: Suki Sahota
+ * Description: Roman Numeral Converter
+ */
 import java.util.*;
 public class RomanNumeral {
     public static void main(String[] args) {
