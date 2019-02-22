@@ -1,6 +1,6 @@
 /*
 Author: Suki Sahota
-Description: Roman Numeral Convertor
+Description: Roman Numeral Converter
 */
 import java.util.*;
 public class RomanNumeral {
