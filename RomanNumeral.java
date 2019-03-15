@@ -31,7 +31,7 @@ public class RomanNumeral {
         int day = kb.nextInt();
         System.out.print("Enter the year of your birthday as a four digit number: ");
         int year = kb.nextInt();
-        //convert birthdate to roman numerals
+        // Convert birthdate to roman numerals
         String romanMonth = roman(month);
         String romanDay = roman(day);
         String romanYear = roman(year);
